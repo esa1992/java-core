@@ -5,6 +5,12 @@ public class Hello {
         int j = 1 - 1;
         i = i / j;
         System.out.println("Value of variable = " + i);
+        System.out.println("Value of variable = " + i);
+        System.out.println("Value of variable = " + i);
+        System.out.println("Value of variable = " + i);
+        System.out.println("Value of variable = " + i);
+        System.out.println("Value of variable = " + i);
+        System.out.println("Value of variable = " + i);
 
     }
 }
